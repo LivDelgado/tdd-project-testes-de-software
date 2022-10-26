@@ -1,0 +1,5 @@
+1.  O escopo dos testes.
+    O teste funcional valida a funcionalidade como um todo, testa um caso de uso do início ao fim. Um teste unitário valida uma unidade (geralmente atômica) que faz parte desse caso de uso.
+
+2.  Abstração
+    O teste funcional valida a aplicação da mesma forma que um usuário final validaria (caixa preta), enquanto o teste unitário valida o código (caixa branca).
