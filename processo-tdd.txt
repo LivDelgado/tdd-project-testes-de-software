@@ -1,0 +1,11 @@
+- Escrevemos um teste funcional
+- Executar o teste pra ver se passa
+- Se não passar (o que é esperado), escreve código pra passar
+    Essa etapa é mais complexa por estarmos utilizando 2 tipos de teste
+    - Escrevemos um teste unitário
+    - Executar o teste pra ver se passa
+    - Se não passar (o que é esperado), escreve código pra passar
+    - Refatorar
+    - Executar testes unitários de novo
+- Se precisar refatorar, volta a modificar considerando os testes unitários
+- Executa os testes funcionais pra ver se passa
