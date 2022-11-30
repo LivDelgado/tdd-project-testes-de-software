@@ -11,7 +11,7 @@ test-functional:
 	python manage.py test functional_tests
 
 test-unit:
-	python manage.py test lists
+	python manage.py test lists accounts
 
 test:
 	python manage.py test
